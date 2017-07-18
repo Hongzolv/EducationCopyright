@@ -1,0 +1,4 @@
+#filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+scan_image0001.jpg,2182287,"{}",3,0,"{""name"":""rect"",""x"":537,""y"":829,""width"":1862,""height"":2342}","{""name"":""figure""}"
+scan_image0001.jpg,2182287,"{}",3,1,"{""name"":""rect"",""x"":463,""y"":3244,""width"":1960,""height"":512}","{""name"":""caption""}"
+scan_image0001.jpg,2182287,"{}",3,2,"{""name"":""rect"",""x"":455,""y"":4057,""width"":1992,""height"":919}","{""name"":""caption""}"

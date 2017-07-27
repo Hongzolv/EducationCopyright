@@ -11,13 +11,17 @@ class DocSeg():
         self.param = param
 
     # block segmentation 알고리즘
+    # 텍스트/ 비 텍스트 분할
     def block_seg(self, dataset):
         # x-y cut algorithm
         # margin 제거
-        return
 
+        return 0
+    # block grouping 알고리즘
+    # 텍스트 / 캡션 분할
     def block_group(self, blocks):
-        return
+
+        return 0
 
     def run(self):
 

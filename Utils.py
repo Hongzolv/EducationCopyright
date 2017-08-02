@@ -3,7 +3,7 @@ import pandas as pd
 import cv2
 import os
 import json
-
+#타겟 이미지 레이블링 파싱
 attritubes = ["#filename", "file_size", "file_attributes", "region_count", "region_id", "region_shape_attributes",
               "region_attributes"]
 scan_size = [840, 1188]  # width , height
